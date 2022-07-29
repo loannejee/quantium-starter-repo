@@ -2,7 +2,7 @@ import csv
 import os
 
 DATA_DIRECTORY = "./data"
-OUTPUT_FILE_PATH = "./combined_and_cleaned_2.csv"
+OUTPUT_FILE_PATH = "./combined_and_cleaned_model.csv"
 
 # open the OUTPUT file to write in it:
 with open(OUTPUT_FILE_PATH, "w") as output_file:
