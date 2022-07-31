@@ -20,10 +20,8 @@ pip3 install --upgrade requests
 Dash Layout
 https://dash.plotly.com/layout
 <br/>
-<br/>
 Basic Dash Callbacks
 https://dash.plotly.com/basic-callbacks
-<br/>
 <br/>
 Python Figure Reference: layout
 https://plotly.com/python/reference/layout/
