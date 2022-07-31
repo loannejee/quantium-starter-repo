@@ -25,4 +25,5 @@ https://dash.plotly.com/basic-callbacks
 <br/>
 Python Figure Reference: layout
 https://plotly.com/python/reference/layout/
+<br/>
 ![improve_visualizer](https://user-images.githubusercontent.com/95735163/182044476-ddd2e602-2dc0-493b-a8f4-774bcb517171.PNG)
